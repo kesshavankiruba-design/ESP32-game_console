@@ -1,3 +1,4 @@
+<img width="500" height="601" alt="Screenshot 2026-10-17 153455" src="https://github.com/user-attachments/assets/d7620979-2b1b-4629-a06e-0d901aae8c31" />
 # ESP32 Mini Arcade Gaming System
 
 A mini arcade gaming system built using an **ESP32 microcontroller**, a **0.96-inch OLED display**, a **joystick**, and a **push button**. The ESP32 processes player inputs, runs the game logic, and displays graphics, scores, and menus on the OLED screen.
@@ -18,14 +19,14 @@ The system features four classic arcade-style games: Tetris, Space Shooter, Dino
 ### Circuit Schematic
 
 The schematic shows the planned electrical connections between the ESP32, OLED display, joystick, push button, and resistor.
+<img width="835" height="702" alt="Screenshot 2026-10-17 153448" src="https://github.com/user-attachments/assets/bf32a129-9dcf-41d3-8526-f5c062b062bd" />
 
-![Circuit Schematic](images/circuit-schematic.png)
 
 ### PCB Layout
 
 The PCB layout illustrates the component placement and wiring routes for the mini arcade gaming system.
+<img width="500" height="601" alt="Screenshot 2026-10-17 153455" src="https://github.com/user-attachments/assets/919f0d92-e566-4867-b352-fd4136ca6bc3" />
 
-![PCB Layout](images/pcb-layout.png)
 
 ## Games
 
