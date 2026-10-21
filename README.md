@@ -24,7 +24,7 @@ The schematic shows the planned electrical connections between the ESP32, OLED d
 ### PCB Layout
 
 The PCB layout illustrates the component placement and wiring routes for the mini arcade gaming system.
-<img width="546" height="751" alt="PCB_gameconsole" src="https://github.com/user-attachments/assets/8a1d4259-e46f-4576-be29-fe4a1f583e4a" />
+<img width="532" height="740" alt="PCB_gameconsole" src="https://github.com/user-attachments/assets/49a39751-80c2-45c3-b70a-a92417918d40" />
 
 
 ## Games
