@@ -18,13 +18,13 @@ The system features four classic arcade-style games: Tetris, Space Shooter, Dino
 ### Circuit Schematic
 
 The schematic shows the planned electrical connections between the ESP32, OLED display, joystick, push button, and resistor.
-<img width="835" height="702" alt="Screenshot 2026-10-17 153448" src="https://github.com/user-attachments/assets/bf32a129-9dcf-41d3-8526-f5c062b062bd" />
+<img width="736" height="686" alt="Schematic_gameconsole" src="https://github.com/user-attachments/assets/07ae2a82-1655-44e5-ac82-4b2c49eb45a0" />
 
 
 ### PCB Layout
 
 The PCB layout illustrates the component placement and wiring routes for the mini arcade gaming system.
-<img width="532" height="740" alt="PCB_gameconsole" src="https://github.com/user-attachments/assets/49a39751-80c2-45c3-b70a-a92417918d40" />
+<img width="462" height="647" alt="PCB_gameconsole" src="https://github.com/user-attachments/assets/0cfa3869-4231-4120-b789-58ab7a0d69c9" />
 
 
 ## Games
